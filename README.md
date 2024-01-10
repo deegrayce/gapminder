@@ -1,5 +1,4 @@
 # Gapminder
-
 ## Overview:
 This Python project focuses on analyzing the Gapminder dataset, which includes information about countries and various indicators over time. The dataset contains the following columns: ['country', 'continent', 'year', 'lifeExp', 'pop', 'gdpPercap', 'iso_alpha', 'iso_num']. The analysis involves data wrangling, graphical visualization, and comparisons of countries based on their GDPs. Additionally, time series analysis is performed to examine the evolution of certain indicators, and population comparisons among continents are conducted.
 
