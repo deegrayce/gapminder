@@ -5,9 +5,6 @@ This Python project focuses on analyzing the Gapminder dataset, which includes i
 ## Dependencies:
 Ensure you have the necessary Python libraries installed by running:
 
-bash
-Copy code
-
 pip install pandas matplotlib seaborn
 
 Files:
@@ -18,15 +15,11 @@ data/gapminder.csv: The Gapminder dataset in CSV format.
 ## Usage:
 Clone the repository:
 
-bash
-Copy code
 
 git clone https://github.com/your-username/gapminder-analysis.git
 cd gapminder-analysis
 Run the Jupyter Notebook:
 
-bash
-Copy code
 jupyter notebook main.ipynb
 Execute the cells in the notebook to reproduce the analysis and visualize the results.
 
